@@ -24,6 +24,8 @@ namespace WpfApp1
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             //Hier komt code van button.
+
+            //Tweede wijziging.
         }
     }
 }
